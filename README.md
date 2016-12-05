@@ -1,5 +1,6 @@
 # XBCodingObject
 先前做APP做离线的时候经常遇到有需求要把自定义模型存入数据库,但是需要实现NSCoding协议的两个方法,模型属性少的时候还有耐心写,但是当有100个属性的时候难道还一个个写吗,程序员写代码就是要避免重复的代码,这里作者只是帮助开发者省去了这些枯燥简单没有技术的代码,其次能更有效的提高开发效率.
+![Alt text](https://github.com/zhouxubin/XBCodingObject/blob/master/Simulator%20Screen%20Shot.png)
 ###自定义类person类
     #import "XBCodingObject.h"
     #import "XBDog.h"
